@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1652597505 source:/home/vladimir/Dokumenty/c_programming/kelbl_projekt/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"logic_for_database.h"
+
+1652601444 /home/vladimir/Dokumenty/c_programming/kelbl_projekt/logic_for_database.h
+
+1652603046 source:/home/vladimir/Dokumenty/c_programming/kelbl_projekt/logic_for_database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
